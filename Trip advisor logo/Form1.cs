@@ -61,6 +61,7 @@ namespace Trip_advisor_logo
             Logo.DrawString("Trip", drawFont, Black, 320, 360);
             //Advisor String
             Logo.DrawString("Advisor", drawFont, Green, 380, 360);
+            //
         }
     }
 }
